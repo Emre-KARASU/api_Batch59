@@ -1,4 +1,4 @@
-package day02;
+package get_reguests.day02;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.specification.RequestSpecification;

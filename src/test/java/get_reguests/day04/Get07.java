@@ -1,4 +1,4 @@
-package day04;
+package get_reguests.day04;
 
 import base_urls.JsonPlaceHolderBaseUrl;
 import io.restassured.path.json.JsonPath;

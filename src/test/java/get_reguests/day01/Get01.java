@@ -1,4 +1,4 @@
-package day01;
+package get_reguests.day01;
 import io.restassured.response.Response;
 import org.junit.Test;
 

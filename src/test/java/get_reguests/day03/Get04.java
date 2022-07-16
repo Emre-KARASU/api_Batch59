@@ -1,4 +1,4 @@
-package day03;
+package get_reguests.day03;
 
 import base_urls.JsonPlaceHolderBaseUrl;
 import io.restassured.http.ContentType;

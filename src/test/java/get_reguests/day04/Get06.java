@@ -1,4 +1,4 @@
-package day04;
+package get_reguests.day04;
 
 import base_urls.HerOkuAppBaseUrl;
 import io.restassured.http.ContentType;
