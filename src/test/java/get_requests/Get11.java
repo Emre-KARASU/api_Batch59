@@ -1,4 +1,4 @@
-package get_reguests.day06;
+package get_requests;
 
 import base_urls.GoRestBaseUrl;
 import io.restassured.path.json.JsonPath;

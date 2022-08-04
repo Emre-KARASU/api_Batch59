@@ -1,4 +1,4 @@
-package get_reguests.day05;
+package get_requests;
 
 import base_urls.JsonPlaceHolderBaseUrl;
 import io.restassured.response.Response;
